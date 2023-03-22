@@ -1,0 +1,39 @@
+button#loginbtn {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    font-size: medium;
+}
+
+.textlabel {
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+#namebox {
+    width: 400px;
+    height: 40px;
+}
+
+#emailbox {
+    width: 400px;
+    height: 40px;
+}
+
+#passbox {
+    width: 400px;
+    height: 40px;
+}
+#loginbtn {
+    display: block;
+    margin-top: 20px;
+}
+
+.registerredirectlink {
+    display: block;
+    font-family: sans-serif;
+    margin-top: 30px;
+    padding-top: 30px;
+    float: inline-end;
+}
